@@ -1,3 +1,6 @@
+[![Build Status](http://ec2-13-53-142-163.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci-github-integration)](http://ec2-13-53-142-163.eu-north-1.compute.amazonaws.com/job/fibonacci-github-integration/)
+[![Build Status](http://ec2-13-53-142-163.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci-github-integration)](http://ec2-13-53-142-163.eu-north-1.compute.amazonaws.com/job/fibonacci-github-integration/)
+
 # jenkins-prac-3-3
 
 [![Build Status](http://ec2-13-53-142-163.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci-github-integration)](http://ec2-13-53-142-163.eu-north-1.compute.amazonaws.com/job/fibonacci-github-integration/)
